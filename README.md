@@ -1,6 +1,10 @@
 # BleachHack-unofficial
 Unofficial port of BleachHack for 1.20.4.
 
+You need the latest Java version in order for this to work. You can download it from [here](https://www.oracle.com/java/technologies/downloads/).
+
+Also change the Java executable in the Minecraft launcher to use the latest version. Refer to [this guide](https://minecrafthopper.net/help/guides/changing-java-version/).
+
 ## NOTE!
 Some stuff are broken. Don't expect everything to work. 
 
